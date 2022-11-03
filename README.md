@@ -1,5 +1,5 @@
 <h3 align="center" >
-  Web Scraper criado em Golang que coleta todas as promoções da black friday do site https://www.mercadolivre.com.br e armazena os dados em um arquivo .csv, realizando a comparação do valor antigo e o novo, mostrando a real redução para cada produto. 
+  Web Scraper criado em Golang responsável por coletar todas as promoções promoção de Black Friday do site https://www.mercadolivre.com.br e armazenar os dados em um arquivo .csv, realizando a comparação do valor antigo e o novo, mostrando a real redução de preço para cada produto. 
 </h3>
 
 <p align="center">
