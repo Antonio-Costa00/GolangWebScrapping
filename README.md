@@ -25,10 +25,10 @@
 
 # Passos para execução do programa
 
-1º - Tenha instalada a versão do golang 1,18 ou superior ><br/>
+1º - Tenha instalada a versão do golang 1,18 ou superior <br/>
 2º - Clone o projeto com o comando ```git clone https://github.com/Antonio-Costa00/WebScrappingComGolangBlackFridayMercadoLivre.git``` <br/> 
-3º - Para instalar as dependencias do projeto, execute o comando ```go get```
-4º - Com as dependencias instaladas, é só executar o comando `go run main.go`<br/>
+3º - Para instalar as dependencias do projeto, execute o comando ```go get``` <br/>
+4º - Com as dependencias instaladas, execute o comando `go run main.go`<br/>
 
 ## Author
 
@@ -47,7 +47,7 @@ Give a ⭐️ if this project helped you!
 
 ## License
 
-Copyright © 2021 [Antonio Costa](https://github.com/Antonio-Costa00).<br />
+Copyright © 2022 [Antonio Costa](https://github.com/Antonio-Costa00).<br />
 This project is [MIT](https://github.com/Antonio-Costa00/Alibaba-Auto-Quote-Request/blob/master/LICENSE) licensed.
 
 ---
