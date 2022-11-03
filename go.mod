@@ -1,4 +1,4 @@
-module github.com/Antonio-Costa00/GolangWebScrapping.git
+module github.com/Antonio-Costa00/WebScrappingComGolangBlackFridayMercadoLivre
 
 go 1.19
 
