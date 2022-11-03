@@ -23,6 +23,13 @@
 
 </p>
 
+# Passos para execução do programa
+
+1º - Tenha instalada a versão do golang 1,18 ou superior ><br/>
+2º - Clone o projeto com o comando ```git clone https://github.com/Antonio-Costa00/WebScrappingComGolangBlackFridayMercadoLivre.git``` <br/> 
+3º - Para instalar as dependencias do projeto, execute o comando ```go get```
+4º - Com as dependencias instaladas, é só executar o comando `go run main.go`<br/>
+
 ## Author
 
 👤 **Antonio Costa**
